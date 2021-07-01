@@ -9,10 +9,15 @@ Columns	Description:
 
 
 Good credit	    -                     Whether the person defaulted or not (1=didn't default,0: defaulted)
+
 checking status	 -                    How the person checks the status of the loan (using mobile number, PAN number etc)
+
 duration	-                           duration of loan 
+
 history	 -                            type of history the person had with the bank
+
 purpose	 -                            different types of purpose for which the loan is taken
+
 amount  -                           	Amount of loan taken
 savings -                           	Different types of savings made by the people in the bank
 employ	-                             different employment opportunities offered to the people taking loans
