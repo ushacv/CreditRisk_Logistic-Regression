@@ -4,7 +4,10 @@ Objective : To find out fraud credit records.
 
 Dataset :
 
-Columns	Description
+Columns	Description:
+
+
+
 Good credit	    -                     Whether the person defaulted or not (1=didn't default,0: defaulted)
 checking status	 -                    How the person checks the status of the loan (using mobile number, PAN number etc)
 duration	-                           duration of loan 
