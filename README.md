@@ -54,6 +54,7 @@ foreign	-                             whether the person is a foreigner or not (
 Data Pre- Processing and Model Building :
 
   Perform Logistic Regression as Classification Problems (0, 1):
+  
            - Convert categorical columns into factors
            - Missing Value Treatment 
            - various Test - Histo, Boxplot, Barplot
