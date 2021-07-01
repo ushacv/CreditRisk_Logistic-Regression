@@ -51,9 +51,9 @@ tele	-                               whether the person has telephone connection
 foreign	-                             whether the person is a foreigner or not (A201: Is a foreigner, A202: Not a foreigner)
 
 
-Data Pre- Processing and Model Building :
+                                         Data Pre- Processing and Model Building :
 
-  Perform Logistic Regression as Classification Problems (0, 1):
+                                 Perform Logistic Regression as Classification Problems (0, 1):
   
            - Convert categorical columns into factors
            - Missing Value Treatment 
